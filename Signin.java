@@ -1,4 +1,4 @@
-// This is main Frame interface 
+-- This is main Frame interface 
 package bank.management.sysyem;
 
 import javax.swing.*;
@@ -102,7 +102,7 @@ public class Transactions extends JFrame implements ActionListener{
     
 }
 -----------------------------------------------------------------------------------------
-// This frame for Cash deposit
+-- This frame for Cash deposit
 
 package bank.management.sysyem;
 
@@ -194,7 +194,7 @@ public class Deposit extends JFrame implements ActionListener{
     
 }
 -----------------------------------------------------------------------------------------
-// This frame for withdrawl
+-- This frame for withdrawl
 
 package bank.management.sysyem;
 
@@ -286,7 +286,7 @@ public class Withdraw extends JFrame implements ActionListener{
     
 }
 -----------------------------------------------------------------------------------------
-// This frame for fast cash
+-- This frame for fast cash
 
 package bank.management.sysyem;
 
@@ -406,7 +406,7 @@ public class Fastcash extends JFrame implements ActionListener{
     
 }
 -----------------------------------------------------------------------------------------
-// This frame for Mini statement
+-- This frame for Mini statement
 
 package bank.management.sysyem;
 
@@ -484,7 +484,7 @@ public static void main(String args[]){
 }    
 }
 -----------------------------------------------------------------------------------------
-// This frame for pin change
+-- This frame for pin change
 
 package bank.management.sysyem;
 
@@ -607,7 +607,7 @@ public class Pinchange  extends JFrame implements ActionListener {
     
 }
 -----------------------------------------------------------------------------------------
-// This frame for balance enquiry
+-- This frame for balance enquiry
 package bank.management.sysyem;
 
 import javax.swing.*;
