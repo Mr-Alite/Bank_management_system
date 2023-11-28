@@ -1,4 +1,4 @@
-// This is all about how we should create table for Bank data of the coustomers
+-- This is all about how we should create table for Bank data of the coustomers
 -----------------------------------------------------------------------------------------
 create database bankmanagementsystem;
 
