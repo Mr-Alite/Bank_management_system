@@ -1,4 +1,4 @@
-# ATM Management System
+# Bank Management System
 
 ## __A simple Java-based ATM management system with basic banking functionalities.__
 
@@ -32,7 +32,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/atm-management-system.git
+    git clone https://github.com/Mr-Alite/atm-management-system.git
     ```
 
 2. Set up the database:
