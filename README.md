@@ -19,6 +19,7 @@
 - Java
 - Swing (for GUI)
 - MySQL (for database)
+- Apache NetBeans IDE
 
 # Getting Started
 
@@ -32,19 +33,28 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Mr-Alite/atm-management-system.git
+    git clone https://github.com/Mr-Alite/Bank-management-system.git
     ```
 
 2. Set up the database:
-   - Create a MySQL database and import the provided SQL script (`atm_management.sql`).
+   - Create a MySQL database and import the provided SQL script (`Bank_management_system.sql`).
    - Update the database connection details in the `connect.java` file.
 
 3. Compile and run the Java code:
 
     ```bash
-    cd atm-management-system
-    javac *.java
-    java Login
+    Compile and Run Project:
+
+    Shortcut: F6
+    Menu Option: Run > Run Project
+    Compile File:
+
+    Shortcut: Shift + F6
+    Menu Option: Run > Compile File
+    Run File:
+
+    Shortcut: Shift + F6
+    Menu Option: Run > Run File
     ```
 
 ## Usage
